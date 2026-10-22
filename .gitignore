@@ -1,0 +1,23 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Dataset
+data/*.csv
+data/*.zip
+
+# Trained Models
+models/*.pkl
+models/*.joblib
+models/*.keras
+models/*.h5
+
+# Environment Variables
+.env
